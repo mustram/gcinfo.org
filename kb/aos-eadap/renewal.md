@@ -14,21 +14,23 @@ $0 (Zero USD)
 ## EAD (form I-765) Renewal
 1. Complete [I-765 form](https://www.uscis.gov/sites/default/files/document/forms/i-765.pdf) and sign, download and guide is [here](/kb/aos-eadap/form-I-765-renewal-guide/). 
 2. A copy of your current EAD
-3. A print-out of your electronic I-94 form
-4. Two identical passport photographs, write A-Number on back of them. 
-5. A copy of your I-485 form receipt notice
-6. A copy of a valid government-issued identity document, driver's license etc
-7. A copy of passport, biographic information pages (normally those are first two and last two) 
-8. [Form G-1145](https://www.uscis.gov/g-1145), E-Notification of Application/Petition Acceptance
+3. Original or copy of EAD Renewal Tear off
+5. A print-out of your electronic I-94 form
+6. Two identical passport photographs, write A-Number on back of them. 
+7. A copy of your I-485 form receipt notice
+8. A copy of a valid government-issued identity document, driver's license etc
+9. A copy of passport, biographic information pages (normally those are first two and last two) 
+10. [Form G-1145](https://www.uscis.gov/g-1145), E-Notification of Application/Petition Acceptance
 
 ## AP (form I-131) Renewal
 1. Complete [I-131 form](https://www.uscis.gov/sites/default/files/document/forms/i-131.pdf) and sign, download and guide is [here](/kb/aos-eadap/form-I-131-renewal-guide/). 
 2. A copy of your current AP
-3. A print-out of your electronic I-94 form
-4. Two identical passport photographs, write A-Number on back of them. 
-5. A copy of your I-485 form receipt notice
-6. A copy of a valid government-issued identity document, driver's license etc
-7. A copy of passport, biographic information pages (normally those are first two and last two) 
+3. Copy of EAD Renewal Tear off
+4. A print-out of your electronic I-94 form
+5. Two identical passport photographs, write A-Number on back of them. 
+6. A copy of your I-485 form receipt notice
+7. A copy of a valid government-issued identity document, driver's license etc
+8. A copy of passport, biographic information pages (normally those are first two and last two) 
 
 ## Generate EAD/AP Renewal Cover Letters
 <p class="green-infobox">Generate EAD/AP Renewal cover letter with barcodes, its FREE!</p>
